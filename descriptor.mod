@@ -1,0 +1,6 @@
+version="1"
+name="Traversible Atlantic"
+supported_version="1.13"
+remote_file_id="2825363109"
+path = "mod/TATLANTIC"
+picture="thumbnail.png"
