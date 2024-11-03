@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  # LAKES
  lake_hjalmaren:0 "Hjälmaren"
  lake_vattern:0 "Vättern"
@@ -192,4 +192,4 @@ l_english:
  sea_palk_bay:0 "Palk Bay"
  sea_gulf_martaban:0 "Gulf of Martaban"
  sea_andaman:0 "Andaman Sea"
- IMPASSABLE ATLANTIC EUROPE-AFRICA:0 "West Saharan Coast"
+ sea_westsharan:0 "West Sharan Coast"
