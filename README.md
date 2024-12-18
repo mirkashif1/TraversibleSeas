@@ -1,7 +1,9 @@
-# TraversibleSeas
-**A CK3 MOD**
- This mod makes seas traversible
- Sea tile IMPASSABLE ATLANTIC EUROPE-AFRICA is now traversible,
- That means you could go from Canary Islands to any place Coastal West Africa by sea.
- Renamed IMPASSABLE ATLANTIC EUROPE-AFRICA to 'West Saharan Coast'
+# **TraversibleSeas**  
+### **A CK3 Mod**
 
+This mod enables sea traversal in **Crusader Kings III** for certain regions that were previously impassable.  
+
+## **Features:**  
+- The **IMPASSABLE ATLANTIC EUROPE-AFRICA** sea tile is now **traversible**.  
+- **Sea travel unlocked**: Move by sea between the **Canary Islands** and coastal regions of **West Africa**.  
+- The sea tile **IMPASSABLE ATLANTIC EUROPE-AFRICA** has been **renamed** to **West Saharan Coast**.
